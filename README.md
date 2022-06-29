@@ -12,6 +12,14 @@ Hi there 👋
 
 I am Ashin, An enthusiastic professional with 8 years of rich experience in creating Web-based Applications.
 
+## 💼 Skills
+
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white)
+![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular&logoColor=white&color=red)
+![](https://img.shields.io/badge/Nodejs-informational?style=flat&logo=Node.js&logoColor=white&color=green)
+![](https://img.shields.io/badge/ExpressJs-informational?style=flat&logo=Express&logoColor=white&color=green)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDb&logoColor=white&color=green)
+
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/ashinkuniyil/findDoctor">
@@ -31,12 +39,3 @@ I am Ashin, An enthusiastic professional with 8 years of rich experience in crea
 </a>
 <br>
 <br>
-
-## 💼 Skills
-
-![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white)
-![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular&logoColor=white&color=red)
-![](https://img.shields.io/badge/Nodejs-informational?style=flat&logo=Node.js&logoColor=white&color=green)
-![](https://img.shields.io/badge/ExpressJs-informational?style=flat&logo=Express&logoColor=white&color=green)
-![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDb&logoColor=white&color=green)
-
