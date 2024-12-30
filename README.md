@@ -1,4 +1,4 @@
-[![ASHIN's GitHub Banner](./web3.jpg)](https://github.com/ashinkuniyil)
+[![ASHIN's GitHub Banner](./banner.webp)](https://github.com/ashinkuniyil)
 
 [<h1 align="">![Years Badge](https://badges.pufler.dev/years/ashinkuniyil)](https://github.com/ashinkuniyil)
 [![Repos Badge](https://badges.pufler.dev/repos/ashinkuniyil)](https://github.com/ashinkuniyil)
