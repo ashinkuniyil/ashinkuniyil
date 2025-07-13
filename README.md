@@ -1,24 +1,12 @@
-[![ASHIN's GitHub Banner](./banner.webp)](https://github.com/ashinkuniyil)
+[![ASHIN's GitHub Banner](./cover.png)](https://github.com/ashinkuniyil)
 
-[<h1 align="">![Years Badge](https://badges.pufler.dev/years/ashinkuniyil)](https://github.com/ashinkuniyil)
-[![Repos Badge](https://badges.pufler.dev/repos/ashinkuniyil)](https://github.com/ashinkuniyil)
-[![Visits Badge](https://badges.pufler.dev/visits/ashinkuniyil/ashinkuniyil)](https://github.com/ashinkuniyil)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/ashinkuniyil)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://x.com/ashinkuniyil)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ashinkuniyil/)
-[![Website Badge](https://img.shields.io/website?url=http%3A%2F%2Fashin.kuniyil.me)](http://ashin.kuniyil.me)
- </h1>
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fashin.kuniyil.me)
  
 Hi there 👋
 
-I am Ashin, An enthusiastic professional with 9 years of rich experience in creating Web-based Applications.
-
-## 💼 Skills
-
-![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white)
-![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular&logoColor=white&color=red)
-![](https://img.shields.io/badge/Nodejs-informational?style=flat&logo=Node.js&logoColor=white&color=green)
-![](https://img.shields.io/badge/ExpressJs-informational?style=flat&logo=Express&logoColor=white&color=green)
-![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDb&logoColor=white&color=green)
+I am Ashin, An enthusiastic professional with 11 years of rich experience in creating Web-based Applications.
 
 ## 📌 Pinned Repositories
 
